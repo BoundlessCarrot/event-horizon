@@ -3,9 +3,7 @@
 It's this thing!
 ![the equation](media/event-horizon.png)
 
-Reference C implementation:
-![](pic.twitter.com/1yzRUUa6M7)
-<!-- <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Huh! That&#39;s cool! <a href="https://t.co/FzvhLtaFu3">https://t.co/FzvhLtaFu3</a> <a href="https://t.co/1yzRUUa6M7">pic.twitter.com/1yzRUUa6M7</a></p>&mdash; Тsфdiиg (@tsoding) <a href="https://twitter.com/tsoding/status/1897049953090068614?ref_src=twsrc%5Etfw">March 4, 2025</a></blockquote> -->
+[Reference C implementation](pic.twitter.com/1yzRUUa6M7)
 
 The terminal one needs to be compiled with `zig build-exe`, and has a simple cli (type `--help` for options)
 

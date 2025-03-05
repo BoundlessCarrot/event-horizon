@@ -3,7 +3,7 @@
 It's this thing!
 ![the equation](media/event-horizon.png)
 
-[Reference C implementation](pic.twitter.com/1yzRUUa6M7)
+[Reference C implementation](https://pic.twitter.com/1yzRUUa6M7)
 
 The terminal one needs to be compiled with `zig build-exe`, and has a simple cli (type `--help` for options)
 
